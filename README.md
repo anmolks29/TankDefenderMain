@@ -1,4 +1,4 @@
-**Tank Defender** is first attempt of my whole game development.
+**Tank Defender** is my first attempt to create a full fledge working Game.
 Tank Defender is a 3D Top Down multi-directional shooter video game
 for PC. The main character is a
 Tank in the playfield protecting its base.
@@ -19,11 +19,11 @@ Controller (Pc)
 Arrow Keys- Movement
 Space - Fire
 E - For deploying landmines
- ------------------------------------------------------------------------------------------------**Start Menu Screenshots**-----------------------------------------------------------------------------------------------------------------------------------
+----**Start Menu Screenshots**----
 
  ![image](https://github.com/anmolks29/TankDefenderMain/assets/122304247/f3cc4f54-1e43-4398-a025-38ccab34d02a)
 
- ---------------------------------------------------------------------------------------------------**Game Play Screenshots**-----------------------------------------------------------------------------------------------------------------------
+ ----**Game Play Screenshots**------
  ![image](https://github.com/anmolks29/TankDefenderMain/assets/122304247/dde56f1f-792e-4313-9903-a7e3f6c436c6)
  ![image](https://github.com/anmolks29/TankDefenderMain/assets/122304247/9a3246a1-a612-4f38-a7c9-5c5993ba2260)
  ![image](https://github.com/anmolks29/TankDefenderMain/assets/122304247/f5b612a1-42ec-40aa-abb6-95eb98c6e156)
